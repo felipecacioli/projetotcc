@@ -11,7 +11,7 @@ RA	        NOME COMPLETO	              CURSO
 
 Descrição do Projeto
 Nosso projeto consiste em um site de venda de produtos customizados, ulitizamos como base um site ja existente, onde fizemos algumas alterações para esse projeto. 
-As ferramentas que utilizamos para desenvolvimento desse projeto foi banco de dados MySql com programação em PhpMyadmin, linguamgens que utilizamos para 
+As ferramentas que utilizamos para desenvolvimento desse projeto foi banco de dados MySql com programação em PhpMyadmin, linguagens que utilizamos para 
 desenvolver o site em si foi PHP, Html e JavaScript. 
 A hospedagem do nosso banco de dados, esta sendo feita na plataforma Rapidcloud e o registro do nosso site foi feito no registrobr.
 O objetivo foi utilizar o conhecimento dos integrantes do grupo em desenvolvimento Web e utiliza-los no novo conceito de Cloud e gerenciamento centralizado.
