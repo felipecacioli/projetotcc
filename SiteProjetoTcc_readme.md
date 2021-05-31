@@ -10,12 +10,17 @@ RA	        NOME COMPLETO	              CURSO
 3019101034	Mauricio Martins	          Banco de Dados
 
 Descrição do Projeto
-Nosso projeto consiste em um site de venda de produtos customizados, pegamos uma base de um site existente
-e nele fizemos as mudnaças para desenvolver o nosso próprio site.
-As ferramentas que utilizamos para desenvolvimento do mesmo foi o banco de dados MySql e linguagem PHP, 
-a hospedagem do nosso banco de dados, esta sendo feita na plataforma rapidcloud e o registro do nosso site
-foi feito no registrobr.
-O objetivo foi tentar consciliar o conhecimento do grupo em desenvolvimento Web utiliando uma nova plataforma,
-que no caso é o GitHub onde se mostrou muito eficaz, na parte de gerenciamento onde todos integrantes, puderam enxergar e desenvolver
-de forma online as mudanças no projeto e também a praticidade da integração que você têm independente de qual sistema oepracional
-você esta utilizando.
+Nosso projeto consiste em um site de venda de produtos customizados, ulitizamos como base um site ja existente, onde fizemos algumas alterações para esse projeto. 
+As ferramentas que utilizamos para desenvolvimento desse projeto foi banco de dados MySql com programação em PhpMyadmin, linguamgens que utilizamos para 
+desenvolver o site em si foi PHP, Html e JavaScript. 
+A hospedagem do nosso banco de dados, esta sendo feita na plataforma Rapidcloud e o registro do nosso site foi feito no registrobr.
+O objetivo foi utilizar o conhecimento dos integrantes do grupo em desenvolvimento Web e utiliza-los no novo conceito de Cloud e gerenciamento centralizado.
+Utilizamos como gerenciador central do projeto a plataforma do GitHub onde se mostrou muito eficaz,a praticidade que todos integrantes, tiveram para enxergar
+de forma ativa e online as mudanças no projeto conforme elas iriam acontecendo,fora a praticidade que o GtiHub da na integração entre o seu desktop e o projeto onde torna facil, eficiente e agil subir os scripts para toda equipe do projeto.
+Além do Github outra coisa que foi novidade para todos os integrantes do grupo, essa nova metodoliga do conceito cloud onde todos ja ouviram falar mas ninguem tinha o conhecimento na pratica, e com isso achamos que iriamos sofremos um pouco para conseguir criar o banco de dados e conseguir subir os scripts em um mundo totalmnte novo para todos, mas com ajuda de alguns tutoriais e da central de ajuda da RapidCloud foi ate mais tranquilo que pensavamos.
+Com isso concluímos que esse projeto ,nós possibilitou sair do mundo convencional e "seguro pela experiencia que todos tinham" e enxergar que na nossa aréa temos que estar atentos as mudanças e parar de vê o novo com medo e sim como oportunidades.
+
+site: http://projetotcc.com/
+Hospedagem rapidcloud.com
+Registro: registro.br
+
